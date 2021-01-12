@@ -105,5 +105,8 @@
       }
     }
   },
-  "defaultProject": "desenvolvedor-io-angular-site-e-catalogo"
+  "defaultProject": "desenvolvedor-io-angular-site-e-catalogo",
+  "cli": {
+    "analytics": "6d9d5578-99e0-402f-a099-0acbc6a2431d"
+  }
 }
