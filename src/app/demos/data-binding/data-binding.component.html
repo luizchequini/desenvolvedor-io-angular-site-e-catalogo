@@ -3,12 +3,12 @@
 
     <!-- <p>O número de cliques é: {{ contadorClique }}</p> -->
     
-    <p [ngClass]="{
+    <h2 [ngClass]="{
        'text-secondary':contadorClique < 3,
        'text-success':contadorClique >= 3,
        'text-warning':contadorClique >= 5,
        'text-danger':contadorClique >= 9
-    }">O número de cliques é: {{ contadorClique }}</p>
+    }">O número de cliques é: {{ contadorClique }}</h2>
 
     <br/>
     <br/>
