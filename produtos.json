@@ -4,8 +4,8 @@
             "id": 1,
             "nome": "Mouse Microsoft",
             "valor": 15.90,
-            "promocao": false,
-            "valorPromocao": 0,
+            "promocao": true,
+            "valorPromocao": 10.00,
             "imagem": "mouse.jpg"
         },
         {
@@ -44,8 +44,8 @@
             "id": 6,
             "nome": "Galaxy S10+",
             "valor": 2800.00,
-            "promocao": false,
-            "valorPromocao": 0,
+            "promocao": true,
+            "valorPromocao": 2500.99,
             "imagem": "celular.jpeg"
         },
         {
