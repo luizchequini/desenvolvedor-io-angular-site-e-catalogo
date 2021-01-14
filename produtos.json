@@ -22,7 +22,7 @@
             "valor": 250.00,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "monitor.jpg"
+            "imagem": "monitor.jpeg"
         },
         {
             "id": 4,
@@ -46,7 +46,7 @@
             "valor": 2800.00,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "celular.jpg"
+            "imagem": "celular.jpeg"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "valor": 300.00,
             "promocao": false,
             "valorPromocao": 0,
-            "imagem": "gopro.jpg"
+            "imagem": "gopro.png"
         },
         {
             "id": 8,
